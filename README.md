@@ -71,10 +71,9 @@ Get answers to your questions anytime, anywhere with our always-available chatbo
 
 ## Future Scope
 
-- **Integration with More Platforms**: Expand expense tracking to other e-commerce platforms.
 - **Advanced Analytics**: Introduce more detailed and customizable analytics features.
-- **Enhanced Security**: Implement advanced security features to protect user data.
-- **Mobile Application**: Develop a mobile application for on-the-go expense tracking and management.
+- **Enhance Chatbot Responses**: Chatbot could me made better by training on a bigger and relevant dataset.
+- **Customizable options**: More customizable options for budget tracking.
 
 ## Contact
 
