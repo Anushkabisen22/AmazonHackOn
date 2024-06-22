@@ -65,7 +65,6 @@ Get answers to your questions anytime, anywhere with our always-available chatbo
 
 - **Python**: For backend development and AI logic.
 - **React**: For front-end development.
-- **Amazon Web Services (AWS)**: For cloud hosting and database management.
 - **Dialogflow**: For chatbot implementation.
 - **MongoDB**: For database management.
 
@@ -79,10 +78,8 @@ Get answers to your questions anytime, anywhere with our always-available chatbo
 
 For any questions or feedback, please contact:
 
-- **Your Name**
-- **Email**: yourname@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
+- **Email**: bisenanushka@gmail.com, smartsamarth77@gmail.com
+- 
 ---
 
 Thank you for using the Amazon Expense Tracker and AI Chatbot! We hope it helps you manage your expenses effectively.
