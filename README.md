@@ -1,3 +1,5 @@
+# Theme 4: Personalized Payment Experiences and Financial Management
+
 # Amazon Expense Tracker and AI Chatbot
 
 **Team name - 96 bulls**
@@ -22,17 +24,22 @@
 
 
 ## Project Overview
-![Home page](Logo/homepage.jpg)
+![Home page](Logo/amazonpayprofile.jpg)
 
 
 detail analysis
+![Home page](Logo/homepage.jpg)
+
 ![Home page](Logo/Analysis.jpg)
 
 
 below is the monthly budget analysis
 ![Home page](Logo/monthlybudget.jpg)
 
+![Home page](Logo/help.jpg)
 
+
+![Home page](Logo/chat.jpg)
 
 
 ## Contact
