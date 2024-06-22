@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Amazon Customer Service</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}"/>
+    <style>
+        /* Background color */
+        body {
+            background-color: #ffffff; /* White background */
+        }
+
+        /* Style to make the Amazon logo white */
+        .user_img {
+            height: 50px; /* Adjust as needed */
+            width: 50px; /* Adjust as needed */
+            border-radius: 50%; /* Rounded shape */
+            background-color: white; /* White background */
+            padding: 5px; /* Optional padding for space */
+        }
+
+        /* Optional: Round profile images */
+        .rounded-circle {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid h-100">
+        <div class="row justify-content-center h-100">        
+            <div class="col-md-8 col-xl-6 chat">
+                <div class="card">
+                    <div class="card-header msg_head">
+                        <div class="d-flex bd-highlight">
+                            <div class="img_cont">
+                                <img src="https://pngimg.com/uploads/amazon/amazon_PNG21.png" class="rounded-circle user_img">
+                                <span class="online_icon"></span>
+                            </div>
+                            <div class="user_info">
+                                <span>Amazon Customer Service</span>
+                                <p>How can I help you?</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="messageFormeight" class="card-body msg_card_body">
+                        
+                    </div>
+                    <div class="card-footer">
+                        <form id="messageArea" class="input-group">
+                            <input type="text" id="text" name="msg" placeholder="Type your message..." autocomplete="off" class="form-control type_msg" required/>
+                            <div class="input-group-append">
+                                <button type="submit" id="send" class="input-group-text send_btn"><i class="fas fa-location-arrow"></i></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#messageArea").on("submit", function(event) {
+                const date = new Date();
+                const hour = date.getHours();
+                const minute = date.getMinutes();
+                const str_time = hour + ":" + minute;
+                var rawText = $("#text").val();
+
+                var userHtml = '<div class="d-flex justify-content-end mb-4">' +
+                                    '<div class="msg_cotainer_send">' +
+                                    rawText +
+                                    '<span class="msg_time_send">'+ str_time + '</span>' +
+                                    '</div>' +
+                                    '<div class="img_cont_msg">' +
+                                    '<img src="data:image/jpeg;base64,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" class="rounded-circle user_img">' +
+                                    '</div>' +
+                                    '</div>';
+                
+                $("#text").val("");
+                $("#messageFormeight").append(userHtml);
+
+                $.ajax({
+                    data: {
+                        msg: rawText,    
+                    },
+                    type: "POST",
+                    url: "/get",
+                }).done(function(data) {
+                    var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="https://pngimg.com/uploads/amazon/amazon_PNG21.png" class="rounded-circle user_img"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div>';
+                    $("#messageFormeight").append($.parseHTML(botHtml));
+                });
+                event.preventDefault();
+            });
+        });
+    </script>
+</body>
+</html>
