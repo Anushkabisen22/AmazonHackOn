@@ -28,7 +28,7 @@
 
 
 detail analysis
-![Home page](Logo/homepage.jpg)
+![Home page](Logo/Homepage__.png)
 
 ![Home page](Logo/Analysis.jpg)
 
@@ -36,7 +36,7 @@ detail analysis
 below is the monthly budget analysis
 ![Home page](Logo/monthlybudget.jpg)
 
-![Home page](Logo/help.jpg)
+![Home page](Logo/helppage.jpg)
 
 
 ![Home page](Logo/chat.jpg)
