@@ -8,22 +8,26 @@
 * **Anushka Bisen**
 * **Samarth Yadav**
 
-## Features
-
-- **Expense Tracking**: Automatically track and categorize your Amazon expenses.
-- 
-- **AI Chatbot**: A smart chatbot that can answer queries about your expenses and provide assistance.
-- **PDF Integration**: Load and process expense data from PDF files.
-- **Natural Language Processing**: Use NLP to understand and respond to user queries.
-
+  
 ## Table of Contents
 
-- [Project Overview](#Project-Overview)
+- [Features](#Features)
+- [Guide](#Guide)
 - [Technologies Used](#technologies-used)
+- [Future Scope](#Future-Scope)
 - [Contact](#contact)
 
 
-## Project Overview
+## Features
+
+- **Expense Tracking**: Automatically track and categorize your Amazon expenses.
+- **Notification system**: Notifies users when they are going out of their budgets.
+- **Monthly Budgets and Analysis**: Set Your Monthly Budgets and analyze your expenditures.
+- **AI Chatbot**: A smart chatbot that can answer queries about your expenses and provide assistance.
+- **Complaint registration and queries**: Chatbot registers user's complaints and could be tracked from help window.
+
+
+## Guide
 ![Home page](Logo/profilepage.jpg)
 
 
