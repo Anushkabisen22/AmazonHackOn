@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66765ec978baad6c5e34a2df"
+  },
+  "user": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "description": "ID_076547",
+  "date": {
+    "$date": "2024-06-22T05:19:05.023Z"
+  },
+  "status": "Resolved",
+  "createdAt": {
+    "$date": "2024-06-22T05:19:05.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T05:19:05.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66765f0978baad6c5e34a2e1"
+  },
+  "user": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "description": "ID_87649",
+  "date": {
+    "$date": "2024-06-22T05:20:09.348Z"
+  },
+  "status": "Resolved",
+  "createdAt": {
+    "$date": "2024-06-22T05:20:09.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T05:20:09.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66768cd683c2fa8d1a3fcc58"
+  },
+  "user": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "description": "ID_49836",
+  "date": {
+    "$date": "2024-06-22T08:35:34.483Z"
+  },
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-06-22T08:35:34.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T08:35:34.486Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "6676a02189373c57da40b1bd"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 500,
+  "date": {
+    "$date": "2024-01-18T18:30:00.000Z"
+  },
+  "category": "Grocery",
+  "description": "Pulses",
+  "createdAt": {
+    "$date": "2024-06-22T09:57:53.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T09:57:53.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a05089373c57da40b1c0"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 245,
+  "date": {
+    "$date": "2024-01-18T18:30:00.000Z"
+  },
+  "category": "Medicine",
+  "description": "Fever",
+  "createdAt": {
+    "$date": "2024-06-22T09:58:40.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T09:58:40.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a07d89373c57da40b1c3"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 100,
+  "date": {
+    "$date": "2024-01-18T18:30:00.000Z"
+  },
+  "category": "Dairy",
+  "description": "Milk",
+  "createdAt": {
+    "$date": "2024-06-22T09:59:25.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T09:59:25.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a0a189373c57da40b1c6"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 1000,
+  "date": {
+    "$date": "2024-02-18T18:30:00.000Z"
+  },
+  "category": "Grocery",
+  "description": "Grocery",
+  "createdAt": {
+    "$date": "2024-06-22T10:00:01.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:00:01.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a0b989373c57da40b1c9"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 124,
+  "date": {
+    "$date": "2024-02-18T18:30:00.000Z"
+  },
+  "category": "Medicine",
+  "description": "Fever",
+  "createdAt": {
+    "$date": "2024-06-22T10:00:25.733Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:00:25.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a0d189373c57da40b1cc"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 1500,
+  "date": {
+    "$date": "2024-02-18T18:30:00.000Z"
+  },
+  "category": "Shopping",
+  "description": "Shopping",
+  "createdAt": {
+    "$date": "2024-06-22T10:00:49.550Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:00:49.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a0da89373c57da40b1cf"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 1500,
+  "date": {
+    "$date": "2024-03-18T18:30:00.000Z"
+  },
+  "category": "Shopping",
+  "description": "Shopping",
+  "createdAt": {
+    "$date": "2024-06-22T10:00:58.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:00:58.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a0e889373c57da40b1d2"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 150,
+  "date": {
+    "$date": "2024-03-18T18:30:00.000Z"
+  },
+  "category": "Dairy",
+  "description": "Milk",
+  "createdAt": {
+    "$date": "2024-06-22T10:01:12.357Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:01:12.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a0ee89373c57da40b1d5"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 150,
+  "date": {
+    "$date": "2024-04-18T18:30:00.000Z"
+  },
+  "category": "Dairy",
+  "description": "Milk",
+  "createdAt": {
+    "$date": "2024-06-22T10:01:18.474Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:01:18.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a10389373c57da40b1d8"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 1503,
+  "date": {
+    "$date": "2024-04-18T18:30:00.000Z"
+  },
+  "category": "Shopping",
+  "description": "Shopping",
+  "createdAt": {
+    "$date": "2024-06-22T10:01:39.201Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:01:39.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a11689373c57da40b1db"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 4000,
+  "date": {
+    "$date": "2024-05-18T18:30:00.000Z"
+  },
+  "category": "Insurance",
+  "description": "Car",
+  "createdAt": {
+    "$date": "2024-06-22T10:01:58.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:01:58.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a13689373c57da40b1de"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 460,
+  "date": {
+    "$date": "2024-05-18T18:30:00.000Z"
+  },
+  "category": "Grocery",
+  "description": "Rice",
+  "createdAt": {
+    "$date": "2024-06-22T10:02:30.471Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:02:30.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a15989373c57da40b1e1"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 464,
+  "date": {
+    "$date": "2024-06-18T18:30:00.000Z"
+  },
+  "category": "Medicine",
+  "description": "Fever",
+  "createdAt": {
+    "$date": "2024-06-22T10:03:05.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:03:05.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a16c89373c57da40b1e4"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 80,
+  "date": {
+    "$date": "2024-06-18T18:30:00.000Z"
+  },
+  "category": "Dairy",
+  "description": "Milk",
+  "createdAt": {
+    "$date": "2024-06-22T10:03:24.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:03:24.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a18e89373c57da40b1e7"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 250,
+  "date": {
+    "$date": "2024-06-18T18:30:00.000Z"
+  },
+  "category": "Grocery",
+  "description": "Rice",
+  "createdAt": {
+    "$date": "2024-06-22T10:03:58.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:03:58.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676a1a389373c57da40b1ea"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "amount": 170,
+  "date": {
+    "$date": "2024-06-18T18:30:00.000Z"
+  },
+  "category": "Fruits",
+  "description": "Fruits",
+  "createdAt": {
+    "$date": "2024-06-22T10:04:19.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-22T10:04:19.275Z"
+  },
+  "__v": 0
+}]

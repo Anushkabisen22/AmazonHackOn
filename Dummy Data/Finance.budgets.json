@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "6673c52848a506a0a224c8e6"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "monthlyBudgets": {
+    "month": "2024-01",
+    "budget": 3000
+  },
+  "categoryBudgets": [
+    {
+      "category": "Entertainment",
+      "budget": 4000,
+      "_id": {
+        "$oid": "6673c52848a506a0a224c8e7"
+      }
+    },
+    {
+      "category": "Home Essentials",
+      "budget": 5000,
+      "_id": {
+        "$oid": "6673c52848a506a0a224c8e8"
+      }
+    },
+    {
+      "category": "Grocery",
+      "budget": 2000,
+      "_id": {
+        "$oid": "6673c52848a506a0a224c8e9"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-20T05:59:04.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T05:59:04.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673c53a48a506a0a224c8eb"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "monthlyBudgets": {
+    "month": "2024-02",
+    "budget": 5000
+  },
+  "categoryBudgets": [
+    {
+      "category": "Entertainment",
+      "budget": 4000,
+      "_id": {
+        "$oid": "6673c53a48a506a0a224c8ec"
+      }
+    },
+    {
+      "category": "Home Essentials",
+      "budget": 5000,
+      "_id": {
+        "$oid": "6673c53a48a506a0a224c8ed"
+      }
+    },
+    {
+      "category": "Grocery",
+      "budget": 2000,
+      "_id": {
+        "$oid": "6673c53a48a506a0a224c8ee"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-20T05:59:22.499Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T05:59:22.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673c54448a506a0a224c8f0"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "monthlyBudgets": {
+    "month": "2024-03",
+    "budget": 7000
+  },
+  "categoryBudgets": [
+    {
+      "category": "Entertainment",
+      "budget": 4000,
+      "_id": {
+        "$oid": "6673c54448a506a0a224c8f1"
+      }
+    },
+    {
+      "category": "Home Essentials",
+      "budget": 5000,
+      "_id": {
+        "$oid": "6673c54448a506a0a224c8f2"
+      }
+    },
+    {
+      "category": "Grocery",
+      "budget": 2000,
+      "_id": {
+        "$oid": "6673c54448a506a0a224c8f3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-20T05:59:32.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T05:59:32.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673c54e48a506a0a224c8f5"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "monthlyBudgets": {
+    "month": "2024-04",
+    "budget": 10000
+  },
+  "categoryBudgets": [
+    {
+      "category": "Entertainment",
+      "budget": 4000,
+      "_id": {
+        "$oid": "6673c54e48a506a0a224c8f6"
+      }
+    },
+    {
+      "category": "Home Essentials",
+      "budget": 5000,
+      "_id": {
+        "$oid": "6673c54e48a506a0a224c8f7"
+      }
+    },
+    {
+      "category": "Grocery",
+      "budget": 2000,
+      "_id": {
+        "$oid": "6673c54e48a506a0a224c8f8"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-20T05:59:42.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T05:59:42.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673c55348a506a0a224c8fa"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "monthlyBudgets": {
+    "month": "2024-05",
+    "budget": 10000
+  },
+  "categoryBudgets": [
+    {
+      "category": "Entertainment",
+      "budget": 4000,
+      "_id": {
+        "$oid": "6673c55348a506a0a224c8fb"
+      }
+    },
+    {
+      "category": "Home Essentials",
+      "budget": 5000,
+      "_id": {
+        "$oid": "6673c55348a506a0a224c8fc"
+      }
+    },
+    {
+      "category": "Grocery",
+      "budget": 2000,
+      "_id": {
+        "$oid": "6673c55348a506a0a224c8fd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-20T05:59:47.445Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T05:59:47.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673c55f48a506a0a224c8ff"
+  },
+  "user_id": {
+    "$oid": "666d62e5869f27d19158b3ec"
+  },
+  "monthlyBudgets": {
+    "month": "2024-06",
+    "budget": 5500
+  },
+  "categoryBudgets": [
+    {
+      "category": "Entertainment",
+      "budget": 4000,
+      "_id": {
+        "$oid": "6673c55f48a506a0a224c900"
+      }
+    },
+    {
+      "category": "Home Essentials",
+      "budget": 5000,
+      "_id": {
+        "$oid": "6673c55f48a506a0a224c901"
+      }
+    },
+    {
+      "category": "Grocery",
+      "budget": 2000,
+      "_id": {
+        "$oid": "6673c55f48a506a0a224c902"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-06-20T05:59:59.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-20T05:59:59.315Z"
+  },
+  "__v": 0
+}]
