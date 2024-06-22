@@ -29,7 +29,7 @@
 **The Profile Option for Custom Financial Analysis**:  
 This feature is designed to provide a personalized financial overview tailored to your unique needs and preferences.
 
-![Profile Page](Logo/amazonpayprofile.jpg)
+![Profile Page](Logo/profilepage.jpg)
 
 **Detail Analysis**:  
 The homepage is designed to keep you updated with a quick and comprehensive overview of your finances through **Latest Transaction History** and **Monthly Expense Snapshot**.
@@ -63,15 +63,15 @@ Get answers to your questions anytime, anywhere with our always-available chatbo
 
 ## Technologies Used
 
-- **Python**: Used for writing the backend logic and integration.
-- **Flask**: A lightweight WSGI web application framework in Python for building web services and APIs.
-- **LangChain**: Used to build the language model pipeline for complex natural language understanding tasks.
-- **Google Gemini API**: Utilized for advanced conversational AI capabilities and enhanced natural language processing.
 - **React**: For front-end development.
 - **MongoDB**: For database management.
 - **NodeJs.**: For backend.
 - **ExpressJs.**: For backed.
 - **Figma**: For UI designing.
+- **Python**: Used for writing the backend logic and integration.
+- **Flask**: A lightweight WSGI web application framework in Python for building web services and APIs.
+- **LangChain**: Used to build the language model pipeline for complex natural language understanding tasks.
+- **Google Gemini API**: Utilized for advanced conversational AI capabilities and enhanced natural language processing.
 
 ## Future Scope
 
@@ -84,7 +84,6 @@ Get answers to your questions anytime, anywhere with our always-available chatbo
 For any questions or feedback, please contact:
 
 - **Email**: bisenanushka@gmail.com, smartsamarth77@gmail.com
-- 
 ---
 
 Thank you for using the Amazon Expense Tracker and AI Chatbot! We hope it helps you manage your expenses effectively.
