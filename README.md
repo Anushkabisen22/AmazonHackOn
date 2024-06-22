@@ -63,10 +63,15 @@ Get answers to your questions anytime, anywhere with our always-available chatbo
 
 ## Technologies Used
 
-- **Python**: For backend development and AI logic.
+- **Python**: Used for writing the backend logic and integration.
+- **Flask**: A lightweight WSGI web application framework in Python for building web services and APIs.
+- **LangChain**: Used to build the language model pipeline for complex natural language understanding tasks.
+- **Google Gemini API**: Utilized for advanced conversational AI capabilities and enhanced natural language processing.
 - **React**: For front-end development.
-- **Dialogflow**: For chatbot implementation.
 - **MongoDB**: For database management.
+- **NodeJs.**: For backend.
+- **ExpressJs.**: For backed.
+- **Figma**: For UI designing.
 
 ## Future Scope
 
