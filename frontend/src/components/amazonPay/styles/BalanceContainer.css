@@ -1,0 +1,43 @@
+.balance-container {
+  background-color: #ffffff;
+  padding: 20px;
+  /* width: 100%; */
+  max-width: 80%;
+  max-height: 25%;
+  margin-left: 60px;
+}
+
+.balance-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.balance-title {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.balance-amount {
+  font-size: 14px;
+  color: green;
+  font-weight: bold;
+}
+
+.balance-item {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.balance-icon {
+  width: 19px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.balance-text {
+  font-size: 16px;
+  color: #0073b1;
+}

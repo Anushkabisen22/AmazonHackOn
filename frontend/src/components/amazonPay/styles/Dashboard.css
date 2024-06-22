@@ -1,0 +1,24 @@
+.dashboard {
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+}
+
+.col-md-3, .col-md-9 {
+  padding: 10px;
+  
+}
+
+.col-md-3 {
+  flex: 0 0 25%;
+  margin-left: -10px;
+}
+
+.col-md-9 {
+  flex: 0 0 75%;
+  display: flex;
+  flex-direction: column;
+}
