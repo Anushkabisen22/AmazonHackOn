@@ -24,7 +24,7 @@
 
 
 ## Project Overview
-![Home page](Logo/amazonpayprofile.jpg)
+![Home page](Logo/profilepage.jpg)
 
 
 detail analysis
