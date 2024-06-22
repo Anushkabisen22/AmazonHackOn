@@ -8,61 +8,82 @@
 * **Anushka Bisen**
 * **Samarth Yadav**
 
-  
 ## Table of Contents
 
-- [Features](#Features)
-- [Guide](#Guide)
+- [Features](#features)
+- [Guide](#guide)
 - [Technologies Used](#technologies-used)
-- [Future Scope](#Future-Scope)
+- [Future Scope](#future-scope)
 - [Contact](#contact)
-
 
 ## Features
 
 - **Expense Tracking**: Automatically track and categorize your Amazon expenses.
-- **Notification system**: Notifies users when they are going out of their budgets.
-- **Monthly Budgets and Analysis**: Set Your Monthly Budgets and analyze your expenditures.
+- **Notification System**: Notifies users when they are going out of their budgets.
+- **Monthly Budgets and Analysis**: Set your monthly budgets and analyze your expenditures.
 - **AI Chatbot**: A smart chatbot that can answer queries about your expenses and provide assistance.
-- **Complaint registration and queries**: Chatbot registers user's complaints and could be tracked from help window.
-
+- **Complaint Registration and Queries**: Chatbot registers user's complaints and they can be tracked from the help window.
 
 ## Guide
 
-The Profile option for Custom Financial Analysis.
+**The Profile Option for Custom Financial Analysis**:  
 This feature is designed to provide a personalized financial overview tailored to your unique needs and preferences.
-![Home page](Logo/amazonpayprofile.jpg)
 
+![Profile Page](Logo/amazonpayprofile.jpg)
 
-detail analysis
-The homepage is designed to keep you updated with a quick and comprehensive overview of your finances through *Latest Transaction History* and *Monthly Expense Snapshot*.
+**Detail Analysis**:  
+The homepage is designed to keep you updated with a quick and comprehensive overview of your finances through **Latest Transaction History** and **Monthly Expense Snapshot**.
 
-![Home page](Logo/Homepage__.png)
-*Category-wise Breakdown:* See exactly how much you're spending in each category, from groceries to entertainment, and everything in between.
-*Budget Alerts:* Receive timely alerts if you exceed your budget or are on track to do so, allowing you to adjust your spending before it’s too late.
-![Home page](Logo/Analysis.jpg)
+![Home Page](Logo/Homepage__.png)
 
+**Category-wise Breakdown**:  
+See exactly how much you're spending in each category, from groceries to entertainment, and everything in between.
+
+![Category Breakdown](Logo/Analysis.jpg)
+
+**Budget Alerts**:  
+Receive timely alerts if you exceed your budget or are on track to do so, allowing you to adjust your spending before it’s too late.
 
 We have also demonstrated your long-term spending pattern.
-![Home page](Logo/monthlybudget.jpg)
-*Seamless Complaint Handling:* If your issue requires further attention, the chatbot smoothly transfers your complaint to our customer care team for prompt resolution.
-*Dashboard Integration:* Track the status of your queries and complaints directly from your dashboard, keeping you informed every step of the way.
-![Home page](Logo/helppage.jpg)
 
-*Instant Query Resolution:* Get answers to your questions anytime, anywhere with our always-available chatbot.
-![Home page](Logo/chat.jpg)
+![Monthly Budget](Logo/monthlybudget.jpg)
 
+**Seamless Complaint Handling**:  
+If your issue requires further attention, the chatbot smoothly transfers your complaint to our customer care team for prompt resolution.
+
+**Dashboard Integration**:  
+Track the status of your queries and complaints directly from your dashboard, keeping you informed every step of the way.
+
+![Help Page](Logo/helppage.jpg)
+
+**Instant Query Resolution**:  
+Get answers to your questions anytime, anywhere with our always-available chatbot.
+
+![Chat Page](Logo/chat.jpg)
+
+## Technologies Used
+
+- **Python**: For backend development and AI logic.
+- **React**: For front-end development.
+- **Amazon Web Services (AWS)**: For cloud hosting and database management.
+- **Dialogflow**: For chatbot implementation.
+- **MongoDB**: For database management.
+
+## Future Scope
+
+- **Integration with More Platforms**: Expand expense tracking to other e-commerce platforms.
+- **Advanced Analytics**: Introduce more detailed and customizable analytics features.
+- **Enhanced Security**: Implement advanced security features to protect user data.
+- **Mobile Application**: Develop a mobile application for on-the-go expense tracking and management.
 
 ## Contact
 
 For any questions or feedback, please contact:
 
-- Your Name
-- Email: yourname@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- **Your Name**
+- **Email**: yourname@example.com
+- **GitHub**: [yourusername](https://github.com/yourusername)
 
 ---
-
-Thank you for using the Amazon Expense Tracker and AI Chatbot! We hope it helps you manage your expenses effectively.
 
 Thank you for using the Amazon Expense Tracker and AI Chatbot! We hope it helps you manage your expenses effectively.
